@@ -1,0 +1,2 @@
+This is a sample text file created using PHP.
+ PHP allows for file creation and writing operations 
